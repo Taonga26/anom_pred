@@ -1,9 +1,8 @@
 flask ==3.0.3
 flask-cors ==5.0.0
-pandas == 2.2.2
-joblib == 1.4.2
-sklearn == 1.4.2
-numpy == 1.26.4
+pandas 
+scikit-learn 
+numpy
 tensorflow == 2.20.0
 warnings
 gunicorn
