@@ -198,5 +198,5 @@ def predict():
 # ------------------------------
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=10000,host= '0.0.0.0')
 
