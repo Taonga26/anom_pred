@@ -4,5 +4,4 @@ pandas
 scikit-learn 
 numpy
 tensorflow == 2.20.0
-warnings
 gunicorn
